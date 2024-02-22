@@ -1,0 +1,48 @@
+.main{
+    background-image: url('../assets/Nitro_Wallpaper_5000x2813.jpg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.details{
+    display:flex;
+    justify-content: center;
+}
+
+.card
+{
+    border: 2px solid;
+    border-radius: 25px;
+    width: 30vw;
+    height: 20vh;
+    margin: 20px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(83, 187, 22);
+}
+.username{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    margin: 10px 0px;
+}
+.age{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    margin: 10px 0px;
+}
+.address{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    margin: 10px 0px;
+}
+.email{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    margin: 10px 0px;
+}

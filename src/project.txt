@@ -1,0 +1,26 @@
+Assignment: React App with Routing and Components
+Objective: Create a React application with 
+two components (Home and Navbar) and implement routing 
+to navigate between these components. Additionally, 
+design a FormAction component to gather user input.
+
+Tasks:
+Component Creation:
+1. Create three components: Home, Navbar, and FormAction. {done}
+
+2. Navigation and Routing: Implement routing to navigate {done}
+between components.
+
+3. Define routes to render the Home and FormAction components based on user navigation. {done}
+
+4. FormAction Component: Design a form within the 
+FormAction component to collect user input.
+Include input fields for Name, Age, Address, and EmailID. {done}
+
+5. Home Component: Populate the Home component with 
+details about the user, including their name, age, email, and address. {done}
+
+Submission Guidelines:
+Submit the React application codebase along with any necessary dependencies.
+Include screenshots or a video demonstrating the functionality of the application, showcasing navigation between components and the input form in the FormAction component.
+Provide a brief explanation of the code structure and any challenges faced during implementation.
